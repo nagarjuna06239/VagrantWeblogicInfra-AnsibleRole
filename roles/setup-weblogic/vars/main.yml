@@ -4,7 +4,7 @@ wlshome: "/opt/oracle/wlserver"
 domainroot: "/opt/oracle/domains"
 
 # Credentials
-domain_name: "mwidomain"
+domain_name: "wmiDomain"
 domain_username: "weblogic"
 domain_password: "weblogic1"
 
